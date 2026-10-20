@@ -1,0 +1,5 @@
+sim_out/
+.venv/
+__pycache__/
+.pytest_cache/
+.env
