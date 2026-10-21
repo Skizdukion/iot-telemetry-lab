@@ -1,0 +1,7 @@
+.git
+.venv
+sim_out
+firmware
+katas
+**/__pycache__
+.pytest_cache
